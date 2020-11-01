@@ -1,0 +1,12 @@
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/bin/Debug/netcoreapp3.1/dgraph_console.deps.json
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/bin/Debug/netcoreapp3.1/dgraph_console.runtimeconfig.json
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/bin/Debug/netcoreapp3.1/dgraph_console.runtimeconfig.dev.json
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/bin/Debug/netcoreapp3.1/dgraph_console.dll
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/bin/Debug/netcoreapp3.1/dgraph_console.pdb
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/obj/Debug/netcoreapp3.1/dgraph_console.csprojAssemblyReference.cache
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/obj/Debug/netcoreapp3.1/dgraph_console.AssemblyInfoInputs.cache
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/obj/Debug/netcoreapp3.1/dgraph_console.AssemblyInfo.cs
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/obj/Debug/netcoreapp3.1/dgraph_console.csproj.CoreCompileInputs.cache
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/obj/Debug/netcoreapp3.1/dgraph_console.dll
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/obj/Debug/netcoreapp3.1/dgraph_console.pdb
+/Users/georgesiton/Development/dotnet_projects/dgraph_console/obj/Debug/netcoreapp3.1/dgraph_console.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+name: string @index(term, exact)
+description: string
+areas: [uid]
+system: uid
+
+type System {
+  name
+  description
+  areas
+}
+
+type Area {
+  name
+  description
+  system
+}

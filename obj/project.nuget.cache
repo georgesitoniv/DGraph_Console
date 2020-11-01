@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "UJlHwjbncrVx3VUqMjAH5Av6oXwKUwjQ8B/htHyi9v2Ui/7d4YpGFyGsW/IvDUb/j5ybuqeF1BXL4MBPDPbiQg==",
+  "success": true,
+  "projectFilePath": "/Users/georgesiton/Development/dotnet_projects/dgraph_console/dgraph_console.csproj",
+  "expectedPackageFiles": [
+    "/Users/georgesiton/.nuget/packages/dgraph/20.3.0/dgraph.20.3.0.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/fluentresults/1.4.0/fluentresults.1.4.0.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/google.protobuf/3.11.4/google.protobuf.3.11.4.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/grpc.core.api/2.27.0/grpc.core.api.2.27.0.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/grpc.net.client/2.27.0/grpc.net.client.2.27.0.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/grpc.net.common/2.27.0/grpc.net.common.2.27.0.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/microsoft.extensions.fileproviders.abstractions/3.1.9/microsoft.extensions.fileproviders.abstractions.3.1.9.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/microsoft.extensions.fileproviders.embedded/3.1.9/microsoft.extensions.fileproviders.embedded.3.1.9.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/microsoft.extensions.primitives/3.1.9/microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/system.diagnostics.diagnosticsource/4.5.1/system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/georgesiton/.nuget/packages/system.valuetuple/4.4.0/system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
